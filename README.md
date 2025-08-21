@@ -11,7 +11,6 @@
 - 💻 Linguagens: Java, C, Python, Assembly (MIPS)
 - 📚 Estruturas de dados: Listas, Pilhas, Filas e Árvores
 - 🎨 Interfaces gráficas com Java Swing
-- ☁️ Interesse em Cloud & DevOps
 - 📈 Gestão: Metodologias Ágeis, PMO, Kanban, Scrum
 
 ---

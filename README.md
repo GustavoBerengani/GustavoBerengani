@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gustavo Negrão!
 
 🎓 Estudante de Ciência da Computação na PUC-SP  
-💼 Aprendiz de PMO na Vivo  
+💼 Aprendiz de PMO na Vivo Vita
 📊 Me aprofundando em Java 
 💡 Interesse em **Desenvolvimento de Software** e **Gestão de Projetos**
 

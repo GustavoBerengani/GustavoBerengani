@@ -16,14 +16,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoBerengani&show_icons=true&theme=radical)
-
----
-
 ### 🌍 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-negrão-421883270)
-- 📧 E-mail: gustavoberengani#gmail.com
+- 📧 E-mail: gustavoberenganiGgmail.com
 
 ---
 ⭐ Sempre aprendendo, sempre construindo!

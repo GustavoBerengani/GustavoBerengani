@@ -17,7 +17,7 @@
 
 ### 🌍 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-negrão-421883270)
-- 📧 E-mail: gustavoberenganiGgmail.com
+- 📧 E-mail: gustavoberengani@gmail.com
 
 ---
 ⭐ Sempre aprendendo, sempre construindo!

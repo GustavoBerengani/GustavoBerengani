@@ -3,7 +3,7 @@
 🎓 Estudante de Ciência da Computação na PUC-SP  
 💼 Aprendiz de PMO na Vivo  
 📊 Me aprofundando em Java 
-💡 Interesse em **Desenvolvimento de Software** e **Gestão de Proejtos**
+💡 Interesse em **Desenvolvimento de Software** e **Gestão de Projetos**
 
 ---
 

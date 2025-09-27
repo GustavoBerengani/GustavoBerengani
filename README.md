@@ -17,22 +17,20 @@
 
 ## 📂 Projetos 
 
-### 🏨 [Gerenciamento de Hotel ] - [(https://github.com/GustavoBerengani/gerenciamento-de-hotel)]
+### 🏨 [Gerenciamento de Hotel](https://github.com/GustavoBerengani/gerenciamento-de-hotel)  
 Sistema de reservas via console de um hotel em C.  
-- **Tecnologias:** C
+- **Tecnologias:** C  
 - **Status:** Finalizado  
 
-### 🀄 [Jogo de Dominó] 1.0 - [(https://github.com/usuario/jogo-domino)](https://github.com/GustavoBerengani/Domino-em-C)] 
+### 🀄 [Jogo de Dominó 1.0](https://github.com/GustavoBerengani/Domino-em-C)  
 Implementação de um jogo de dominó em grupo.  
 - **Tecnologias:** C  
-- **Status:** Finalizado
+- **Status:** Finalizado  
 
-  ### 🀄 [Jogo de Dominó] 2.0 - [(https://github.com/GustavoBerengani/Domino-em-Java)]
+### 🀄 [Jogo de Dominó 2.0](https://github.com/GustavoBerengani/Domino-em-Java)  
 Implementação de um jogo de dominó em grupo.  
-- **Tecnologias:** Java
-- **Status:** Finalizado   
-
-*(Adicione aqui novos projetos à medida que forem desenvolvidos 🚀)*
+- **Tecnologias:** Java  
+- **Status:** Finalizado  
 
 ---
 

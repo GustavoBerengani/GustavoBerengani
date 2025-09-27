@@ -27,7 +27,7 @@ Implementação de um jogo de dominó em grupo.
 - **Tecnologias:** C  
 - **Status:** Finalizado  
 
-### 🀄 [Jogo de Dominó 2.0](https://github.com/GustavoBerengani/Domino-em-Java)  
+### 🀄 [Jogo de Dominó 2.0](https://github.com/GustavoBerengani/Domino-em-Java/tree/main)  
 Implementação de um jogo de dominó em grupo.  
 - **Tecnologias:** Java  
 - **Status:** Finalizado  

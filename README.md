@@ -15,22 +15,22 @@
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos 
 
-### 🎵 [Playlist Manager](https://github.com/usuario/playlist-manager)  
-Gerenciador de músicas com lista duplamente ligada circular.  
-- **Tecnologias:** Java, Swing  
-- **Status:** Em andamento  
-
-### 🧮 [ConversorCF](https://github.com/usuario/conversorcf)  
-Conversor simples de Celsius para Fahrenheit com interface gráfica.  
-- **Tecnologias:** Java, Swing  
+### 🏨 [Gerenciamento de Hotel ] - (https://github.com/GustavoBerengani/gerenciamento-de-hotel)
+Sistema de reservas via console de um hotel em C.  
+- **Tecnologias:** C
 - **Status:** Finalizado  
 
-### 🀄 [Jogo de Dominó](https://github.com/usuario/jogo-domino)  
+### 🀄 [Jogo de Dominó] 1.0 - (https://github.com/usuario/jogo-domino)](https://github.com/GustavoBerengani/Domino-em-C)  
 Implementação de um jogo de dominó em grupo.  
 - **Tecnologias:** C  
-- **Status:** Finalizado  
+- **Status:** Finalizado
+
+  ### 🀄 [Jogo de Dominó] 2.0 - (https://github.com/GustavoBerengani/Domino-em-Java)
+Implementação de um jogo de dominó em grupo.  
+- **Tecnologias:** Java
+- **Status:** Finalizado   
 
 *(Adicione aqui novos projetos à medida que forem desenvolvidos 🚀)*
 
@@ -42,4 +42,4 @@ Implementação de um jogo de dominó em grupo.
 
 ---
 
-⭐ Sempre aprendendo, sempre construindo!  
+⭐ Sempre melhorando!  

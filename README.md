@@ -1,21 +1,26 @@
 # 👋 Olá, eu sou o Gustavo Negrão!
 
-🎓 Estudante de Ciência da Computação na PUC-SP  
-💼 Aprendiz de PMO na Vivo Vita  
-📊 Me aprofundando em **Java**  
+🎓 Estudante de Ciência da Computação na PUC-SP
+💼 Aprendiz de PMO na Vivo Vita
+📊 Me aprofundando em **Java**
 💡 Interesse em **Desenvolvimento de Software** e **Gestão de Projetos**
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-- 💻 **Linguagens:** Java, C, Python, Assembly (MIPS)  
-- 📚 **Estruturas de Dados:** Listas, Pilhas, Filas e Árvores  
-- 🎨 **Interfaces Gráficas:** Java Swing  
-- 📈 **Gestão & Metodologias:** PMO, Kanban, Scrum, Metodologias Ágeis  
+- 💻 **Linguagens:** Java, C, Python, Assembly (MIPS)
+- 📚 **Estruturas de Dados:** Listas, Pilhas, Filas e Árvores
+- 🎨 **Interfaces Gráficas:** Java Swing
+- 📈 **Gestão & Metodologias:** PMO, Kanban, Scrum, Metodologias Ágeis
 
 ---
 
 ## 📂 Projetos 
+
+### 🎓 [Cadastro de Alunos - LED](https://github.com/GustavoBerengani/CadastroAlunos)
+Sistema de gerenciamento de estudantes para a disciplina de Laboratório de Estrutura de Dados.
+- **Tecnologias:** Java (Swing / Exceções Customizadas)
+- **Status:** Finalizado ✅
 
 ### 🏨 [Gerenciamento de Hotel](https://github.com/GustavoBerengani/gerenciamento-de-hotel)  
 Sistema de reservas via console de um hotel em C.  
@@ -33,11 +38,3 @@ Implementação de um jogo de dominó em grupo.
 - **Status:** Finalizado  
 
 ---
-
-## 🌍 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-negrão-421883270)  
-- 📧 **E-mail:** gustavoberengani@gmail.com  
-
----
-
-⭐ Sempre melhorando!  

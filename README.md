@@ -17,7 +17,7 @@
 
 ## 📂 Projetos 
 
-### 🎓 [Cadastro de Alunos - LED](https://github.com/GustavoBerengani/CadastroAlunos)
+### 🎓 [Cadastro de Alunos](https://github.com/GustavoBerengani/CadastroAlunos)
 Sistema de gerenciamento de estudantes para a disciplina de Laboratório de Estrutura de Dados.
 - **Tecnologias:** Java (Swing / Exceções Customizadas)
 - **Status:** Finalizado ✅

@@ -38,3 +38,8 @@ Implementação de um jogo de dominó em grupo.
 - **Status:** Finalizado  
 
 ---
+## 📂 Atividades PUC-SP
+
+### 🎓 [LAB-1 - Compiladores](https://github.com/GustavoBerengani/LAB-1)
+Trabalho de Laboratório de Compiladores do 5º Semestre. Estudo sobre Lex regexp scanner.
+
